@@ -4,7 +4,7 @@ Sl.No.| Name| Subtopic| Details|
 ------|-----|---------|--------|
 1|Pramodh|Design of filters|First order,Second order and Bandpass filters|
 2|S Rinitha|Logic Gates|AND, OR, NOT, NAND, NOR, XOR, XNOR Gates|
-3|Tanmay|
+3|Tanmay|Op-Amps|inverting,non-inverting,differntial,integretor|
 4|
 5|
 6|
