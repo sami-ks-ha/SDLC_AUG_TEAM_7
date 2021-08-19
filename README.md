@@ -2,7 +2,7 @@
 
 Sl.No.| Name| Subtopic| Details| 
 ------|-----|---------|--------|
-1|Pramodh|
+1|Pramodh|Design of filters|First order,Second order and Bandpass filters|
 2|S Rinitha|Logic Gates|AND, OR, NOT, NAND, NOR, XOR, XNOR Gates|
 3|Tanmay|
 4|
