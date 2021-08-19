@@ -1,1 +1,47 @@
+# Requirements
+## Introduction
+This product is a powerful tool which helps in designing and implementing electronic circuits. It has various components as features like Filters, Amplifiers, Logic gates, etc which are related to electronics. It takes input from the user through Command line and gives the output through the same.
 
+## Research
+Many websites were available which would implement only one of the features of our product alone. For example, there are pages or sites for calculating fiters' RC values or implementing logic gates. But we could not find anything integrated to this extent.
+
+## State of Art
+### Ageing - Time
+ * Usually these type of calculations were done manually, handwritten. Even in colleges, we still practice all these manually. This project is an idea for automating all the calculations and design which will reduce the time consumed and errors committed.
+### Ageing - Cost
+ * The cost parameter for this project was none. All the softwares and features were freely available on the internet.
+ 
+## 4W&#39;s and 1&#39;H
+
+### Who:
+ * Electical,Electronics,control systems,instrumentation engineers and students;people who need to design or use circuits related to electronics.
+
+### What:
+ * This project gives out the parameters or the values required to design or implelment the type of electronic component according to the user inputs. 
+
+### When:
+ * This project can be used whenever there is a need to implement or design electronic components.
+
+### Where:
+ * This project can be used colleges/universities,labs or even for individual uses.
+
+### How:
+ * The user can follow the (add link for implementation). Then the user enters their requirements and the output will be displayed.
+
+## SWOT Analysis
+
+## Features
+
+## High Level Requirements: 
+| ID | Description | Status |
+| ----- | ----------- | ------- |
+| HR01 | Application should implement various electronic component design | TBD |
+| HR01 | Application should take input from the user | TBD |
+| HR03 | Application should print output to the user | TBD |
+| HR02 | Application should work on both Linux and Windows | TBD |
+| HR04 | Application should follow clean code rules | TBD |
+
+##  Low level Requirements:
+ 
+| ID | Description | HR ID | Status |
+| ------ | --------- | ------ | ----- |
