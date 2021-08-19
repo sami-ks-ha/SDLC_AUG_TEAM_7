@@ -36,6 +36,7 @@ Many websites were available which would implement only one of the features of o
 | Sl. No. | Component | Description |
 | ------- | ----------- | ------------- |
 | 01 | Design of filters | Taking input like frequency and gain from the user and returning the circuit parameters for design | 
+| 02 | OP-AMP |Just to check Wheteher the given parameter forms the given Amplifier or Not.|
 
 ## High Level Requirements: 
 | ID | Description | Status |
