@@ -29,6 +29,8 @@ Many websites were available which would implement only one of the features of o
  * The user can follow the (add link for implementation). Then the user enters their requirements and the output will be displayed.
 
 ## SWOT Analysis
+![SWOT ANALYSIS](https://github.com/TanmayBhilkar/SDLC_AUG_TEAM_7/blob/main/1_Requirements/SWOT.jpg)
+
 
 ## Features
 

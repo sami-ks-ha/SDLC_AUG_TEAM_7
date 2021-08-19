@@ -10,7 +10,7 @@ Sl.No.| Name| Subtopic| Details|features|
 4|Tejas Holla| Oscillators| Hartley, Colpitts, RC Phase Shift Oscilaltor| 
 5|Akif | Number conversions| Binary to hexa to octal conversions|
 6|Samiksha | Multiplexer & Demultiplexer| 2:1,4:1,8:1,16:1|
-7|Jayashree.S | K-Maps | 
+7|Abhijith Ashokan | Digital conversions| Binary to gray code and vice versa, BCD to excess 3 code and vice versa|
 8|
 9|
 10|
