@@ -37,6 +37,7 @@ Many websites were available which would implement only one of the features of o
 | ------- | ----------- | ------------- |
 | 01 | Design of filters | Taking input like frequency and gain from the user and returning the circuit parameters for design | 
 | 02 | OP-AMP |Just to check Wheteher the given parameter forms the given Amplifier or Not.|
+| 03 | Logic Gates | To implement different Logic gates like AND, OR, NOT, NAND, NOR, XOR, and XNOR Gates |  
 
 ## High Level Requirements: 
 | ID | Description | Status |
