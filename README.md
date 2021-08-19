@@ -6,7 +6,7 @@ Sl.No.| Name| Subtopic| Details|features|
 ------|-----|---------|--------|--------|
 1|Pramodh|Design of filters|First order,Second order and Bandpass filters|
 2|S Rinitha|Logic Gates|AND, OR, NOT, NAND, NOR, XOR, XNOR Gates|
-3|Tanmay|Op-Amps|inverting,non-inverting,differntial,integretor|
+3|Tanmay|Op-Amps|inverting,non-inverting,differntial,integretor|Just to check Wheteher the given parameter forms the given Amplifieror Not.
 4|Tejas Holla| Oscillators| Hartley, Colpitts, RC Phase Shift Oscilaltor| 
 5|Akif | Number conversions| Binary to hexa to octal conversions|
 6|
