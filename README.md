@@ -13,4 +13,4 @@ Sl.No.| Name| Subtopic| Details|
 7|Abhijith Ashokan | Digital conversions| Binary to gray code and vice versa, BCD to excess 3 code and vice versa|
 8|Prakruthi B R  |Digital circuits| Adder and subtractor  
 9|Sakshi |Rectifier| Half Wave & Full Wave Rectifiers|
-10|
+10|Jayashree.S | K-Maps | 3-Variable K-map
