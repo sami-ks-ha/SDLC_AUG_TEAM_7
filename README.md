@@ -1,7 +1,7 @@
 # SDLC_AUG_TEAM_7
 
 Sl.No.| Name| Subtopic| Details|features|
-------|-----|---------|--------|--------|
+------|-----|---------|--------|------------|
 1|Pramodh|Design of filters|First order,Second order and Bandpass filters|
 2|S Rinitha|Logic Gates|AND, OR, NOT, NAND, NOR, XOR, XNOR Gates|
 3|Tanmay|Op-Amps|inverting,non-inverting,differntial,integretor|
