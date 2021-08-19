@@ -55,4 +55,6 @@ Many websites were available which would implement only one of the features of o
 | LR02 | Application should use makefile option for different commands | HR04 | TBD |
 | LR03 | Application should comply with different checks like valgrind,cppcheck,build etc. | HR05 | TBD |
 | LR04 | Application to be used with a GUI to provide inputs and print outputs | HR02,HR03 | Future |
-| LR05 | Application should consider all the different types of active filters available to design | HR01 | TBD |
+| LR11 | Application should consider all the different types of active filters available to design | HR01 | TBD |
+| LR21 | Implementation of different Logic Gates | HR01 | TBD |
+| LR22 | Implement test cases to check the implementation of Logic Gates | HR05 | TBD |
