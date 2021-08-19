@@ -9,7 +9,7 @@ Sl.No.| Name| Subtopic| Details|features|
 3|Tanmay|Op-Amps|inverting,non-inverting,differntial,integretor|Just to check Wheteher the given parameter forms the given Amplifier or Not.
 4|Tejas Holla| Oscillators| Hartley, Colpitts, RC Phase Shift Oscilaltor| 
 5|Akif | Number conversions| Binary to hexa to octal conversions|
-6|
+6|Samiksha | Multiplexer & Demultiplexer| 2:1,4:1,8:1,16:1|
 7|
 8|
 9|
