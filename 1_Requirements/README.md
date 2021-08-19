@@ -33,6 +33,8 @@ Many websites were available which would implement only one of the features of o
 
 
 ## Features
+| Sl. No. | Component | Description |
+| ------- | ----------- | ------------- |
 
 ## High Level Requirements: 
 | ID | Description | Status |
