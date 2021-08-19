@@ -36,10 +36,10 @@ Many websites were available which would implement only one of the features of o
 | ID | Description | Status |
 | ----- | ----------- | ------- |
 | HR01 | Application should implement various electronic component design | TBD |
-| HR01 | Application should take input from the user | TBD |
+| HR02 | Application should take input from the user | TBD |
 | HR03 | Application should print output to the user | TBD |
-| HR02 | Application should work on both Linux and Windows | TBD |
-| HR04 | Application should follow clean code rules | TBD |
+| HR04 | Application should work on both Linux and Windows | TBD |
+| HR05 | Application should follow clean code rules | TBD |
 
 ##  Low level Requirements:
  
