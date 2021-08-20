@@ -39,7 +39,7 @@ Many websites were available which would implement only one of the features of o
 | 02 | OP-AMP |Just to check Wheteher the given parameter forms the given Amplifier or Not.|
 | 03 | Logic Gates | To implement different Logic gates like AND, OR, NOT, NAND, NOR, XOR, and XNOR Gates |  
 | 04 | 3 variable K-Map | To produce simplified expression for 3 variable minterms input |
-
+| 05 |Multiplexer & Demultiplexer |To implement in different Combinational logic design |
 ## High Level Requirements: 
 | ID | Description | Status |
 | ----- | ----------- | ------- |
@@ -62,3 +62,5 @@ Many websites were available which would implement only one of the features of o
 | LR22 | Implement test cases to check the implementation of Logic Gates | HR05 | TBD |
 | LR31 | Application shall take the number of minterms (max. 8) and what the minterms are as input | HR02 | TBD |
 | LR32 | Application shall print the simplified 3 variable expression as output | HR03 | TBD |
+| LR41 | Application shall print the output of the logic design in simplified form | HR03 | TBD |
+| LR42 | Application shall minimes the IC pakage count | HR02 | TBD |
