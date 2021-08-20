@@ -38,6 +38,7 @@ Many websites were available which would implement only one of the features of o
 | 01 | Design of filters | Taking input like frequency and gain from the user and returning the circuit parameters for design | 
 | 02 | OP-AMP |Just to check Wheteher the given parameter forms the given Amplifier or Not.|
 | 03 | Logic Gates | To implement different Logic gates like AND, OR, NOT, NAND, NOR, XOR, and XNOR Gates |  
+| 04 | 3 variable K-Map | To produce simplified expression for 3 variable minterms input |
 
 ## High Level Requirements: 
 | ID | Description | Status |
@@ -59,3 +60,5 @@ Many websites were available which would implement only one of the features of o
 | LR11 | Application should consider all the different types of active filters available to design | HR01 | TBD |
 | LR21 | Implementation of different Logic Gates | HR01 | TBD |
 | LR22 | Implement test cases to check the implementation of Logic Gates | HR05 | TBD |
+| LR31 | Application shall take the number of minterms (max. 8) and what the minterms are as input | HR02 | TBD |
+| LR32 | Application shall print the simplified 3 variable expression as output | HR03 | TBD |
